@@ -16,6 +16,9 @@
   
 - 💬 Ask me about **C#, ASP.NET Core, REST APIs, MVC, EF Core, and SQL Server.**
   
+- 💬 My Cv **[mohammedhamdi726@gmail.com](https://drive.google.com/file/d/1Qea5cdTyfeT2-J4Nj_738wk_ltHYK4QZ/view?usp=drive_link)**
+
+  
 
 <br>
 <br>
