@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed hamdy</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 <br>
+<h3 align="center">I am Already Learning Front End So I Want to Be Full-Stack .NET Developer</h3>
+
 <br>
 <img align="right" alt="Coding" width="350" src="https://github.com/fcimahmoud/fcimahmoud/blob/main/giphy.gif">
 
