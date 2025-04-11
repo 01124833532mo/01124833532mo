@@ -18,8 +18,7 @@
   
 - 💬 Ask me about **C#, ASP.NET Core, REST APIs, MVC, EF Core, and SQL Server.**
   
-- 💬 My Cv **[Click My Resume]((https://drive.google.com/file/d/1H2Y3f7YZq2KvpeNhuHpljz6u0f6uHiH5/view?usp=drive_link))**
-
+- 💬 My Cv **[Click My Resume]([https://drive.google.com/file/d/1Qea5cdTyfeT2-J4Nj_738wk_ltHYK4QZ/view?usp=drive_link)](https://drive.google.com/file/d/1H2Y3f7YZq2KvpeNhuHpljz6u0f6uHiH5/view?usp=drive_link)**
   
 
 <br>
