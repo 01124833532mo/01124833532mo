@@ -101,10 +101,12 @@
 
 
 # 📊 GitHub Stats
-<img align="right" alt="Coding" width="300" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFqY21rY2c1Z2hydTlxMm92emM2Z3JtdjhjeGsyN2pmMmN3a2NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIUNwdOPkjeM4nEmk7/giphy.gif" >
 
 <br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fcimahmoud&theme=dark&hide_border=false)
+
+<img align="right" alt="Coding" width="300" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFqY21rY2c1Z2hydTlxMm92emM2Z3JtdjhjeGsyN2pmMmN3a2NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIUNwdOPkjeM4nEmk7/giphy.gif" >
+
 <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fcimahmoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
