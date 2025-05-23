@@ -100,7 +100,7 @@
 <img align="right" alt="Coding" width="300" height="200" 
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fcimahmoud&theme=dark&hide_border=false)
